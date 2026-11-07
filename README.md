@@ -1,60 +1,109 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:00d4ff&height=200&section=header&text=Hi%2C%20I'm%20StephLyy%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student;Aspiring+SOC+Analyst;Passionate+about+Information+Security+from+Peru)](https://git.io/typing-svg)
-
-**🇵🇪 Peru** · 📫 [letslyjg@gmail.com](mailto:letslyjg@gmail.com)
-
-</div>
-
----
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
-
-### 🔭 About me
-- I'm currently working on **Cybersecurity Projects**
-- ⚡ Fun fact: I enjoy learning how technology works and how to make it more secure
-- 🎯 Goal: becoming a **SOC Analyst**
-
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · stephlyy</sub></p>
+<h1>Steph lyy</h1>
+<h2>Backend or systems engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Perú</sub></p>
+<p><a href="https://github.com/stephlyy">GitHub</a></p>
 </td>
-<td width="50%">
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=StephLyy&show_icons=true&theme=tokyonight&hide_border=true)
-
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/101614808?u=5b4c0ac012c8b417c8ae280e2e3fd302b660e72d&amp;v=4" width="180" alt="Steph lyy GitHub avatar" />
 </td>
 </tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>12 contributions · 6 active days</p></td>
+</tr>
+</table>
 
-### 🧠 Language Stack
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephLyy&layout=compact&theme=tokyonight&hide_border=true)
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=stephlyy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101614808%3Fu%3D5b4c0ac012c8b417c8ae280e2e3fd302b660e72d%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=stephlyy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101614808%3Fu%3D5b4c0ac012c8b417c8ae280e2e3fd302b660e72d%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Steph lyy GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=stephlyy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101614808%3Fu%3D5b4c0ac012c8b417c8ae280e2e3fd302b660e72d%26v%3D4&repos=stephlyy%2FStephLyy%2Cstephlyy%2Fjwt-stephlyy&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=stephlyy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101614808%3Fu%3D5b4c0ac012c8b417c8ae280e2e3fd302b660e72d%26v%3D4&repos=stephlyy%2FStephLyy%2Cstephlyy%2Fjwt-stephlyy&v=recruiter-projects-1&mode=dark" width="100%" alt="Steph lyy selected projects" />
+</picture>
 </td>
-<td width="50%">
-
-### 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=StephLyy&theme=tokyonight&hide_border=true)
-
+<td width="42%" valign="top">
+<h3><a href="https://github.com/StephLyy/StephLyy">StephLyy</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/StephLyy/StephLyy">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-### 🛠️ Tools & Technologies
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/StephLyy/jwt-stephlyy">jwt-stephlyy</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### 📈 Contributions
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StephLyy&theme=tokyo-night&hide_border=true)
+<h2>Technical toolkit</h2>
 
-### 🚀 Featured Projects
-*Próximamente: proyectos de ciberseguridad en camino.*
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=stephlyy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101614808%3Fu%3D5b4c0ac012c8b417c8ae280e2e3fd302b660e72d%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=stephlyy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101614808%3Fu%3D5b4c0ac012c8b417c8ae280e2e3fd302b660e72d%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Steph lyy technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center"><strong>Python</strong><br /><sub>100% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=stephlyy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101614808%3Fu%3D5b4c0ac012c8b417c8ae280e2e3fd302b660e72d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=stephlyy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101614808%3Fu%3D5b4c0ac012c8b417c8ae280e2e3fd302b660e72d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Steph lyy contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/stephlyy">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Steph lyy · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
